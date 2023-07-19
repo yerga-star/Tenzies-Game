@@ -1,5 +1,6 @@
 # Tenzies-Game
 Hello :)
+You can just run it through vite with simple click
 Quick start:
 
 ```
@@ -13,4 +14,4 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
 ```
 $ yarn watch # npm run watch
-You can just run it through vite with simple click
+
